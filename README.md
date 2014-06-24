@@ -9,7 +9,7 @@ vim-bexsub
 <blockquote class="twitter-tweet" lang="ja"><p>面倒くさくならないように履歴書にドラクエのサブタイトル付けてる <a href="http://t.co/tnEZl9Hert">pic.twitter.com/tnEZl9Hert</a></p>&mdash; マツコ LV.52 (@TN_matuko_) <a href="https://twitter.com/TN_matuko_/statuses/476577404500983810">2014, 6月 11</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-`backupext` に某サブタイトルをつけて世代管理を実現するものです。
+`backupext` に某サブタイトルをつけて複数世代のバックアップを実現するものです。
 
 インストール方法
 ----------------
