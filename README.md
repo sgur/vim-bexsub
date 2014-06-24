@@ -34,3 +34,8 @@ Plugin 'sgur/vim-bexsub'
 現在の候補は、'dq' もしくは 'yabou' です。
 
     let g:bexsub_theme = 'dq'
+
+スクリーンショット
+-----------------
+
+![XXXの野望編](http://i.gyazo.com/fbaa5737dde99ddad4be23afb23836df.png)
