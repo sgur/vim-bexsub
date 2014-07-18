@@ -31,7 +31,11 @@ Plugin 'sgur/vim-bexsub'
 
 サブタイトルの種類を指定します。
 
-現在の候補は、'dq' もしくは 'yabou' です。
+現在の候補は:
+
+ - 'dq'
+ - 'yabou'
+ - 'pokemon' (New! thanks to @raa0121)
 
     let g:bexsub_theme = 'dq'
 
